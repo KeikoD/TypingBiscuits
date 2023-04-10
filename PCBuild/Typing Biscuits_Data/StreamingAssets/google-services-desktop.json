@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "625805208267",
+    "firebase_url": "https://typing-biscuits-e139e-default-rtdb.firebaseio.com",
+    "project_id": "typing-biscuits-e139e",
+    "storage_bucket": "typing-biscuits-e139e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625805208267:android:d9fd967afd4657f4bac94e",
+        "android_client_info": {
+          "package_name": "com.Eden.TypingBiscuits"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625805208267-gsc1uhqr57gm3o64u4op79cljb7vcckf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBziZmh5M_pd6l-l8XeFodsJcKdF6oY12A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625805208267-gsc1uhqr57gm3o64u4op79cljb7vcckf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
